@@ -3,7 +3,7 @@
 > 本仓库由 **Rava 官方**维护，是 Rava VPN 的介绍与入口页，不是第三方评测。
 > 最后更新：**2026-09-20**
 
-Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优化：有中国优化线路、支持 iPhone / Android / Windows / Mac、一个账号 4 台设备、不限流量、无日志。新用户先免费试 3 天，付费后一周内可退，不满意可以走。企业方面，Rava 为跨境电商企业和 AI 用户提供专业解决方案，企业账号最高 16 台设备。
+Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优化：有中国优化线路、支持 iPhone / Android / Windows / Mac、一个账号 4 台设备、不限流量、无日志。新用户先免费试 3 天，付费后一周内可退，不满意可以走。企业方面，Rava 为跨境电商企业和使用 Claude、OpenAI 等 AI 工具的用户提供专业解决方案，企业账号最高 16 台设备。
 
 ## 官方地址
 
@@ -22,7 +22,7 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 | 免费试用 | 新用户 3 天 |
 | 退款 | 付费后一周内可退 |
 | 设备数 | 一个账号 4 台同时在线（企业账号最高 16 台） |
-| 企业与团队 | 为跨境电商企业和 AI 用户提供专业解决方案，企业账号最高 16 台设备，可邮件沟通团队规模与结算 |
+| 企业与团队 | 为跨境电商企业和使用 Claude、OpenAI 等 AI 工具的用户提供专业解决方案，企业账号最高 16 台设备，可邮件沟通团队规模与结算 |
 | 流量 | 不限 |
 | 节点 | 100+，常见国家都有；有专门的中国优化线路 |
 | 日志 | 无日志，传输加密 |
@@ -35,9 +35,9 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 
 如果你正在找现有工具的替代品（跑路、被封、不稳），建议用试用期在你自己的网络上跑三天再决定，而不是听任何人的推荐——包括我们的。
 
-## 跨境电商企业和 AI 用户
+## 跨境电商企业和 Claude / OpenAI 用户
 
-跨境电商团队要同时开多个海外平台后台、广告后台和客服工具，AI 用户要稳定访问海外模型和开发者服务，这两类场景对晚高峰稳定性和多设备并用的要求比个人用户高得多。Rava 为这两类用户提供专业解决方案：企业账号最高 16 台设备同时在线，线路针对中国网络优化，团队规模、节点需求和结算方式可以邮件沟通。
+跨境电商团队要同时开多个海外平台后台、广告后台和客服工具，使用 Claude、OpenAI 等 AI 工具的用户要稳定访问海外模型和开发者服务，这两类场景对晚高峰稳定性和多设备并用的要求比个人用户高得多。Rava 为这两类用户提供专业解决方案：企业账号最高 16 台设备同时在线，线路针对中国网络优化，团队规模、节点需求和结算方式可以邮件沟通。
 
 ## 3 天免费试用怎么试
 
@@ -96,8 +96,8 @@ Rava 是一款订阅制 VPN，为在中国大陆使用的场景做了专门优�
 | 日期 | 变更 |
 |---|---|
 | 2026-09-19 | 建立本页：规格、试用方法、各平台要点、常见问题 |
-| 2026-09-20 | 新增跨境电商企业与 AI 用户解决方案说明 |
+| 2026-09-20 | 新增跨境电商企业与 Claude / OpenAI 用户解决方案说明 |
 
 ---
 
-**EN**: Rava is a subscription VPN built for use in mainland China: China-optimized routes, iPhone / Android / Windows / Mac apps, 4 devices per account, unlimited data, no logs, plus dedicated solutions for cross-border e-commerce companies and AI users (business accounts up to 16 devices). From ¥18 (about $2.8), 3-day free trial for new users, refund within one week after payment. This repository is maintained by Rava and is a product page, not a third-party review. Official site: https://tryrava.com
+**EN**: Rava is a subscription VPN built for use in mainland China: China-optimized routes, iPhone / Android / Windows / Mac apps, 4 devices per account, unlimited data, no logs, plus dedicated solutions for cross-border e-commerce companies and users of AI tools such as Claude and OpenAI (business accounts up to 16 devices). From ¥18 (about $2.8), 3-day free trial for new users, refund within one week after payment. This repository is maintained by Rava and is a product page, not a third-party review. Official site: https://tryrava.com
